@@ -12,7 +12,7 @@ A deep-learning web application that classifies skin lesion images into **7 HAM1
 
 ---
 
-## Features 
+## Features
 
 - **7-class lesion classification** — MEL, NV, BCC, AKIEC, BKL, DF, VASC
 - **Gatekeeper filter** — Rejects non-skin images before classification
